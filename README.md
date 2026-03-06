@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chamil Ishika 👋
 
-<!--
-**Chamil2003/Chamil2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is **Chamil Ishika**, a **22-year-old Software Engineering student** with a strong passion for **web development**. I enjoy learning modern web technologies and building efficient, user-friendly web applications.
 
-Here are some ideas to get you started:
+## Education
+**Major:** Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Web Development
+- Building responsive and modern websites
+- Learning new programming technologies
+- Improving problem-solving skills
+
+## Goals
+- Grow as a professional **Software Engineer**
+- Develop high-quality web applications
+- Contribute to innovative and impactful software projects
+
+## Contact
+Feel free to connect and collaborate on exciting web development projects.
