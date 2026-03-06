@@ -1,21 +1,22 @@
-# Hi, I'm Chamil Ishika 👋
+# 👋 Hi, I'm Chamil Ishika
 
-## About Me
-My name is **Chamil Ishika**, a **22-year-old Software Engineering student** with a strong passion for **web development**. I enjoy learning modern web technologies and building efficient, user-friendly web applications.
+## 👨‍💻 About Me
+My name is **Chamil Ishika**, and I am a **22-year-old Software Engineering student** with a strong passion for **web development**.  
+I enjoy learning modern web technologies and building **efficient, responsive, and user-friendly web applications**.
 
-## Education
+## 🎓 Education
 **Major:** Software Engineering
 
-## Interests
-- Web Development
-- Building responsive and modern websites
-- Learning new programming technologies
-- Improving problem-solving skills
+## 🌐 Interests
+- 💻 Web Development  
+- 🎨 Creating modern and responsive websites  
+- 🚀 Learning new technologies  
+- 🧠 Improving problem-solving and programming skills  
 
-## Goals
-- Grow as a professional **Software Engineer**
-- Develop high-quality web applications
-- Contribute to innovative and impactful software projects
+## 🎯 Goals
+- 📈 Grow as a professional **Software Engineer**  
+- 🛠️ Build high-quality web applications  
+- 🤝 Collaborate on innovative software projects  
 
-## Contact
-Feel free to connect and collaborate on exciting web development projects.
+## 📫 Contact
+I’m always open to connecting and collaborating on exciting **web development projects**.
